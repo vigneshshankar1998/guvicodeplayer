@@ -19,7 +19,7 @@
                 j++;
             }
             newHolder.append(String.valueOf(newCharStr));
-            if(i != strArr.length-1){
+            if(i != stArr.length-1){
                 newHolder.append(" ");
             }
         }
